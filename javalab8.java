@@ -1,4 +1,4 @@
-public class MultiThreadExample {
+public class javalab8 {
     public static void main(String[] args) {
         Thread t1 = new Thread(() -> {
             while (true) {
